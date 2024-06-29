@@ -38,6 +38,8 @@ class SignInActivity : AppCompatActivity() {
                     Toast.makeText(baseContext, "Mail o contraseña incorrecta", Toast.LENGTH_SHORT).show()
                 } else ->{
                     SignIn(mEmail, mPassword)
+                // mEmail = manu@prueba.com
+                // mPassword = manu123
                 }
             }
         }
