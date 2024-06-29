@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "841028545157",
+    "project_id": "fir-login-ea9c4",
+    "storage_bucket": "fir-login-ea9c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841028545157:android:52c1d86897929f8ac797ec",
+        "android_client_info": {
+          "package_name": "flores.manuel.firebaselogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmxSYJtG1IDUdyOlkvWro4wQFjSs6CWnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
